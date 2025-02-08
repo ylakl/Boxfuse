@@ -1,5 +1,6 @@
-FROM maven AS build
-COPY . .
+FROM openjdk:default
+
+RUN apt install maven -y
 RUN apt install tomcat9 -y
 RUN mvn clean package
 
