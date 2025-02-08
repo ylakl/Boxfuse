@@ -137,7 +137,21 @@
       <option name="project" value="LOCAL" />
       <updated>1739039203879</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="add Dockerfile 2">
+      <created>1739039539227</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1739039539227</updated>
+    </task>
+    <task id="LOCAL-00012" summary="add Dockerfile 3">
+      <created>1739039674167</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1739039674167</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -168,7 +182,8 @@
     <MESSAGE value="add Dockerfile" />
     <MESSAGE value="add Dockerfile 1" />
     <MESSAGE value="add Dockerfile 2" />
-    <option name="LAST_COMMIT_MESSAGE" value="add Dockerfile 2" />
+    <MESSAGE value="add Dockerfile 3" />
+    <option name="LAST_COMMIT_MESSAGE" value="add Dockerfile 3" />
   </component>
   <component name="WindowStateProjectService">
     <state x="223" y="67" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1739009097665">
@@ -195,9 +210,9 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state width="1493" height="175" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1739009902975" />
-    <state x="361" y="145" key="Vcs.Push.Dialog.v2" timestamp="1739039209954">
+    <state x="361" y="145" key="Vcs.Push.Dialog.v2" timestamp="1739039679839">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="361" y="145" key="Vcs.Push.Dialog.v2/0.0.1536.824@0.0.1536.824" timestamp="1739039209954" />
+    <state x="361" y="145" key="Vcs.Push.Dialog.v2/0.0.1536.824@0.0.1536.824" timestamp="1739039679839" />
   </component>
 </project>
