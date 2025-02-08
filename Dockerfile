@@ -1,4 +1,4 @@
-FROM openjdk:default
+FROM openjdk:11-jdk-alpine
 
 RUN apt install maven -y
 RUN apt install tomcat9 -y
