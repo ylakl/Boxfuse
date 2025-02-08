@@ -1,6 +1,6 @@
 FROM openjdk:8-jdk-alpine
 
-RUN apt install maven -y
+FROM maven:latest
 RUN apt install tomcat9 -y
 RUN mvn clean package
 
