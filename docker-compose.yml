@@ -9,8 +9,10 @@ services:
   tomcat:
     build:
       context: .
-        dockerfile: T.Dockerfile
+      dockerfile: T.Dockerfile
     container_name: tomcat-container
     restart: unless-stopped
-    ports: 8080:8080
+    ports:
+      - 8080:8080
     depends_on: maven
+      -
