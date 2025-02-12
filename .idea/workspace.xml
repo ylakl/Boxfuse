@@ -24,7 +24,9 @@
     </select>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f9db04d8-141b-4ce8-b753-cf1a2a7d8832" name="Default Changelist" comment="" />
+    <list default="true" id="f9db04d8-141b-4ce8-b753-cf1a2a7d8832" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -91,7 +93,21 @@
       <option name="project" value="LOCAL" />
       <updated>1739390273523</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="add compose">
+      <created>1739391081192</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1739391081192</updated>
+    </task>
+    <task id="LOCAL-00005" summary="add compose">
+      <created>1739391097941</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1739391097941</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
