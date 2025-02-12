@@ -2,13 +2,13 @@ version: '3'
 services:
   maven:
     build:
-      context: docker/maven/
+      context: .
       dockerfile: M.Dockerfile
     container_name: maven-container
     restart: unless-stopped
   tomcat:
     build:
-      context: docker/tomcat/
+      context: .
         dockerfile: T.Dockerfile
     container_name: tomcat-container
     restart: unless-stopped
