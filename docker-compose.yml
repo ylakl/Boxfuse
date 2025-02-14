@@ -5,14 +5,18 @@ services:
       context: .
       dockerfile: M.Dockerfile
     container_name: maven-container
-    restart: unless-stopped
+    volumes:
+      - shared_data:/usr/src/app/target/
   tomcat:
     build:
-      context: .
-      dockerfile: T.Dockerfile
+      image: tomcat:9.0-jre8-alpine
     container_name: tomcat-container
+    volumes:
+      - shared_data:/usr/local/tomcat/webapps/
     restart: unless-stopped
     ports:
       - 8080:8080
     depends_on:
       - maven
+volumes:
+  shared_data:
