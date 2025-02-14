@@ -12,7 +12,7 @@ services:
       image: tomcat:9.0-jre8-alpine
     container_name: tomcat-container
     volumes:
-      - shared_data:/usr/local/tomcat/webapps/
+      - shared_data:/usr/src/app/target/
     restart: unless-stopped
     ports:
       - 8080:8080
