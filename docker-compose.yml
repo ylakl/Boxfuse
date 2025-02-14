@@ -6,13 +6,12 @@ services:
       dockerfile: M.Dockerfile
     container_name: maven-container
     volumes:
-      - shared_data:/usr/src/app/target/
+      - shared_data:/usr/local/tomcat/webapps/
   tomcat:
-    build:
-      image: tomcat:9.0-jre8-alpine
+    image: tomcat:9.0-jre8-alpine
     container_name: tomcat-container
     volumes:
-      - shared_data:/usr/src/app/target/
+      - shared_data:/usr/local/tomcat/webapps/
     restart: unless-stopped
     ports:
       - 8080:8080
@@ -20,3 +19,4 @@ services:
       - maven
 volumes:
   shared_data:
+
