@@ -26,7 +26,6 @@
   <component name="ChangeListManager">
     <list default="true" id="f9db04d8-141b-4ce8-b753-cf1a2a7d8832" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docker-compose.yml" beforeDir="false" afterPath="$PROJECT_DIR$/docker-compose.yml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -129,7 +128,14 @@
       <option name="project" value="LOCAL" />
       <updated>1739546312507</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="dd">
+      <created>1739555098449</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1739555098449</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -170,10 +176,10 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="519" y="214" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1536.824@0.0.1536.824" timestamp="1739386391818" />
-    <state x="549" y="153" key="FileChooserDialogImpl" timestamp="1739010453784">
+    <state x="549" y="153" key="FileChooserDialogImpl" timestamp="1739703632323">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="549" y="153" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1739010453784" />
+    <state x="549" y="153" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1739703632323" />
     <state width="1493" height="175" key="GridCell.Tab.0.bottom" timestamp="1739009902975">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
@@ -190,9 +196,13 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state width="1493" height="175" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1739009902975" />
-    <state x="361" y="145" key="Vcs.Push.Dialog.v2" timestamp="1739549129188">
+    <state x="361" y="145" key="Vcs.Push.Dialog.v2" timestamp="1739555104597">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="361" y="145" key="Vcs.Push.Dialog.v2/0.0.1536.824@0.0.1536.824" timestamp="1739549129188" />
+    <state x="361" y="145" key="Vcs.Push.Dialog.v2/0.0.1536.824@0.0.1536.824" timestamp="1739555104597" />
+    <state x="209" y="32" key="new project wizard" timestamp="1739703822397">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="209" y="32" key="new project wizard/0.0.1536.824@0.0.1536.824" timestamp="1739703822397" />
   </component>
 </project>
